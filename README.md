@@ -6,7 +6,7 @@ I'm passionate about coding, learning, and contributing to open-source projects.
 
 - 🌱 Currently exploring **[Python/Django]**
 - 👯 Open to collaborating on **[Event Management System]**
-- 💡 Interested in **[Back End Web Development]**
+- 💡 Interested in **[Full Stack Web Development]**
 - 📫 Reach me at ** sjung355@gmail.com**
 
 ---
