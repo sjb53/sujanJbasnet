@@ -24,7 +24,7 @@ I'm passionate about coding, learning, and contributing to open-source projects.
 ## 🚀 Featured Projects
 
 - **[EventMX](https://eventmx.com)** - A comprehensive solution for managing and organizing events.
-- **[Titanium Race Timing]((https://titaniumracetiming.com/))** - A platform for listing and managing racing events with real-time updates.
+- **[Titanium Race Timing](https://titaniumracetiming.com/)** - A platform for listing and managing racing events with real-time updates.
 - **[Cronlink](https://cronlink.ca)** - A web application designed to address challenges in the construction industry.
 
 ---
