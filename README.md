@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sujan Basnet!
 
-**`Software Developer | Open Source Enthusiast`**
+**`Software Developer | Tech Enthusiast`**
 
 I'm passionate about coding, learning, and contributing to open-source projects. Here’s a quick look at what I do:
 
