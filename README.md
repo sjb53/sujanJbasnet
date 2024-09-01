@@ -28,7 +28,7 @@ I'm passionate about coding, learning, and contributing to open-source projects.
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sjb53&show_icons=true&theme=default)
 
 ---
 
