@@ -13,9 +13,11 @@ I'm passionate about coding, learning, and contributing to open-source projects.
 
 ## 🔧 Tech Stack
 
-- **Languages**: [Python, javascript]
-- **Frameworks**: [Flask,Django,Masonite,FastAPI | React]
-- **Tools**: [Docker,Celery,RabbitMQ, postman]
+- **Languages**: Python, JavaScript (React)
+- **Frameworks**: Django, Flask, FastAPI, [Other Python Frameworks], React
+- **Tools**: Docker, RabbitMQ, Celery, Postman
+- **Tech**: Socket Programming
+
 
 ---
 
