@@ -2,9 +2,9 @@
 
 **`Python Developer | Tech Enthusiast`**
 
-I'm passionate about coding, learning, and contributing to open-source projects. Here’s a quick look at what I do:
+I'm passionate about coding, continuous learning, and solving real-world problems through clean, efficient code. With expertise in Python, including frameworks like Django,Flask,Fastapi and Masonite, I’m always excited to collaborate and learn from others in the developer community. Here’s a quick look at what I do:
 
-- 🌱 Currently exploring **[Python/Django]**
+- 🌱 Currently exploring **[Python/Django/Masonite/Flask/Fastapi]**
 - 👯 Open to collaborating on **[Event Management System]**
 - 💡 Interested in **[Full Stack Web Development]**
 - 📫 Reach me at ** sjung355@gmail.com**
