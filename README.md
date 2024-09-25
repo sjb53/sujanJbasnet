@@ -7,7 +7,7 @@ I'm passionate about coding, continuous learning, and solving real-world problem
 - 🌱 Currently exploring **[Python/Django/Masonite/Flask/Fastapi]**
 - 👯 Open to collaborating on **[Event Management System]**
 - 💡 Interested in **[Full Stack Web Development]**
-- 📫 Reach me at ** sjung355@gmail.com**
+- 📫 Reach me at ** sjbmails123@gmail.com**
 
 ---
 
