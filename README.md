@@ -5,7 +5,7 @@
 I'm passionate about coding, continuous learning, and solving real-world problems through clean, efficient code. With expertise in Python, including frameworks like Django,Flask,Fastapi and Masonite, I’m always excited to collaborate and learn from others in the developer community. Here’s a quick look at what I do:
 
 - 🌱 Currently exploring **[Python/Django/Masonite/Flask/Fastapi]**
-- 👯 Open to collaborating on **[Event Management System]**
+- 👯 Open to collaborating on **[Open Source Projects]**
 - 💡 Interested in **[Full Stack Web Development]**
 - 📫 Reach me at ** sjbmails123@gmail.com**
 
